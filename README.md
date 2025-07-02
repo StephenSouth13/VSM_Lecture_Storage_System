@@ -1002,7 +1002,7 @@ RATE_LIMIT_MAX_REQUESTS=100
 
 ```json
 {
-  "name": "Nguyễn Văn A",
+  "name": "Quách Thành Long",
   "email": "user@example.com",
   "password": "password123",
   "role": "VIEWER"

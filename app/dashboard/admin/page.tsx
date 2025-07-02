@@ -204,7 +204,7 @@ export default function AdminPage() {
                     </div>
                     <div className="flex-1">
                       <p className="text-sm font-medium">Bài giảng mới được tải lên</p>
-                      <p className="text-xs text-muted-foreground">Nguyễn Văn Giảng • 2 giờ trước</p>
+                      <p className="text-xs text-muted-foreground">Phan Huỳnh Anh • 2 giờ trước</p>
                     </div>
                   </div>
                   <div className="flex items-center gap-4">

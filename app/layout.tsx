@@ -12,7 +12,10 @@ export const metadata: Metadata = {
   keywords: ["VSM", "Vietnam Student Marathon", "bài giảng", "marathon", "giáo dục"],
   authors: [{ name: "VSM Team" }],
   viewport: "width=device-width, initial-scale=1",
-    generator: 'v0.dev'
+    generator: 'VSM Lecture Storage System',
+  applicationName: "VSM Lecture Storage System",
+  creator: "VSM Team",
+  publisher: "VSM Team",
 }
 
 export default function RootLayout({

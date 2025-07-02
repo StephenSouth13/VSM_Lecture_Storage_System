@@ -156,7 +156,7 @@ export default function RegisterPage() {
                     id="name"
                     name="name"
                     type="text"
-                    placeholder="Nguyễn Văn A"
+                    placeholder="Quách Thành Long"
                     value={formData.name}
                     onChange={handleChange}
                     className="h-12 border-2 border-slate-200 focus:border-purple-500 transition-colors"
