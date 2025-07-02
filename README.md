@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="![image](https://github.com/user-attachments/assets/e7a83d63-c64e-464e-bf06-325b60a5dc18)
-" alt="VSM Logo" width="120" height="120">
+  ![image](https://github.com/user-attachments/assets/f08d59df-7aa1-4cb3-a810-99143a1832d2)
+
   >Link: https://vsm-lecture-storage-system.onrender.com/auth/login
   
   # 🏃‍♂️ VSM Lecture System
