@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://via.placeholder.com/120x120/22c55e/ffffff?text=VSM" alt="VSM Logo" width="120" height="120">
+  <img src="![image](https://github.com/user-attachments/assets/e7a83d63-c64e-464e-bf06-325b60a5dc18)
+" alt="VSM Logo" width="120" height="120">
+  >Link: https://vsm-lecture-storage-system.onrender.com/auth/login
   
   # 🏃‍♂️ VSM Lecture System
   
@@ -82,18 +84,24 @@
 ## 🖼️ Screenshots
 
 <div align="center">
-  
+### 🏠 Login
+![image](https://github.com/user-attachments/assets/9e01b012-1812-4a60-a327-9d65b079ef16)
+ 
 ### 🏠 Dashboard
-![Dashboard](https://via.placeholder.com/800x400/1f2937/ffffff?text=Dashboard+Overview)
+![image](https://github.com/user-attachments/assets/fbb9543f-7b02-491d-b570-a406f5f0c5d4)
 
 ### 📚 Lecture Management
-![Lectures](https://via.placeholder.com/800x400/059669/ffffff?text=Lecture+Management)
+![image](https://github.com/user-attachments/assets/dfdc700b-99a1-4039-bdfb-6c0cfdc4b285)
 
 ### 🎥 Presentation Mode
 ![Presentation](https://via.placeholder.com/800x400/7c3aed/ffffff?text=Presentation+Mode)
 
 ### 📅 Calendar System
-![Calendar](https://via.placeholder.com/800x400/dc2626/ffffff?text=Calendar+System)
+![image](https://github.com/user-attachments/assets/ffc968ad-e3bb-4d29-87c3-1af0ed32cb89)
+
+### QUẢN TRỊ
+![image](https://github.com/user-attachments/assets/28fe1969-2a09-4409-9536-b77a32cc3200)
+
 
 </div>
 
