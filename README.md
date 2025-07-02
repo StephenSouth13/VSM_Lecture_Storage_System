@@ -1,5 +1,5 @@
 <div align="center">
-  ![image](https://github.com/user-attachments/assets/f08d59df-7aa1-4cb3-a810-99143a1832d2)
+  ![image](https://github.com/user-attachments/assets/47ce3f9f-c011-4e5f-af0d-ee51f2ef2f5f)
 
   >Link: https://vsm-lecture-storage-system.onrender.com/auth/login
   
